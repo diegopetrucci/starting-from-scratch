@@ -1,4 +1,4 @@
-# Start Over Review
+# Starting From Scratch
 
 An [agent skill](https://agentskills.io/home) that looks at a project's full history and answers what should change if you had to restart it from scratch.
 
@@ -7,14 +7,14 @@ An [agent skill](https://agentskills.io/home) that looks at a project's full his
 ### As a skill
 
 ```bash
-npx skills add https://github.com/diegopetrucci/start-over-review --skill start-over-review
+npx skills add https://github.com/diegopetrucci/starting-from-scratch --skill starting-from-scratch
 ```
 
 ### As a Claude Code plugin
 
 ```shell
 /plugin marketplace add diegopetrucci/ai-agents-skills
-/plugin install start-over-review@diegopetrucci-claude-plugins
+/plugin install starting-from-scratch@diegopetrucci-claude-plugins
 ```
 
 ## License

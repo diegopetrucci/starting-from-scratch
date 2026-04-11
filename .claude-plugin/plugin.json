@@ -1,5 +1,5 @@
 {
-  "name": "start-over-review",
-  "description": "Review a project's history and say what to change if starting over",
+  "name": "starting-from-scratch",
+  "description": "Say what should change if the project were started again",
   "version": "1.0.0"
 }
