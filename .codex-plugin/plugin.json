@@ -1,0 +1,21 @@
+{
+  "name": "starting-from-scratch",
+  "version": "1.0.0",
+  "description": "Say what should change if the project were started again.",
+  "author": {
+    "name": "Diego Petrucci",
+    "url": "https://github.com/diegopetrucci"
+  },
+  "repository": "https://github.com/diegopetrucci/starting-from-scratch",
+  "license": "MIT",
+  "keywords": ["architecture", "retrospective", "planning", "developer-tools"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Starting From Scratch",
+    "shortDescription": "Analyze project restart tradeoffs",
+    "longDescription": "Review a codebase, branch, or commit and explain what should change if the project were being started again.",
+    "developerName": "Diego Petrucci",
+    "category": "Developer Tools",
+    "capabilities": ["Read"]
+  }
+}
