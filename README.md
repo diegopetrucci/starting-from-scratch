@@ -17,6 +17,14 @@ npx skills add https://github.com/diegopetrucci/starting-from-scratch --skill st
 /plugin install starting-from-scratch@diegopetrucci-claude-plugins
 ```
 
+### As a Codex plugin
+
+```shell
+codex plugin marketplace add diegopetrucci/ai-agents-skills
+```
+
+Restart Codex, then install `starting-from-scratch` from the "Diego Petrucci Agent Skills" marketplace in the plugin directory.
+
 ## License
 
 MIT
