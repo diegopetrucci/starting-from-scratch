@@ -4,7 +4,7 @@ description: Review a codebase and say what should change if it were being start
 license: MIT
 metadata:
   author: Diego Petrucci
-  version: "1.0"
+  version: "1.1"
 ---
 
 # Starting From Scratch
