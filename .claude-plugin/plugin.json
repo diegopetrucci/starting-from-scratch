@@ -1,5 +1,9 @@
 {
   "name": "starting-from-scratch",
   "description": "Say what should change if the project were started again",
-  "version": "1.1.0"
+  "version": "1.1.1",
+  "author": {
+    "name": "Diego Petrucci",
+    "url": "https://github.com/diegopetrucci"
+  }
 }
