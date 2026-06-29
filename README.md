@@ -13,7 +13,7 @@ npx skills add https://github.com/diegopetrucci/starting-from-scratch --skill st
 ### As a Claude Code plugin
 
 ```shell
-/plugin marketplace add diegopetrucci/ai-agent-skills
+/plugin marketplace add diegopetrucci/ai-agents-skills
 /plugin install starting-from-scratch@diegopetrucci-claude-plugins
 ```
 
@@ -22,7 +22,7 @@ Run `/reload-plugins` in Claude Code to activate newly installed plugins in the 
 ### As a Codex plugin
 
 ```shell
-codex plugin marketplace add diegopetrucci/ai-agent-skills
+codex plugin marketplace add diegopetrucci/ai-agents-skills
 ```
 
 Restart Codex, then install `starting-from-scratch` from the "Diego Petrucci Agent Skills" marketplace in the plugin directory.
